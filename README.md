@@ -11,7 +11,7 @@
 </picture>
 
 # Final Project: personality_calculator
-[![GitHub Discussions](https://img.shields.io/badge/Learn_More-informational?logo=github&style=for-the-badge)](https://github.com/4N0NYM0U5MY7H/undergraduate/discussions/1)
+[![GitHub Discussions](https://img.shields.io/badge/Learn_More-informational?logo=github&style=for-the-badge)](https://github.com/4N0NYM0U5MY7H/personality_calculator/discussions/2)
 [![Maintainability](https://api.codeclimate.com/v1/badges/983d856ebcfda6c354d2/maintainability)](https://codeclimate.com/github/4N0NYM0U5MY7H/personality_calculator/maintainability)
 
 A simple GUI application that calculates a user's Enneagram, zodiac signs, and bio-rhythm.
