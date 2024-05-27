@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: personality_calculator
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: August
+    family-names: Frisk
+    affiliation: Modesto Junior College (student)
+    orcid: 'https://orcid.org/0009-0007-9200-8438'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.11155601
+repository-code: 'https://github.com/4N0NYM0U5MY7H/personality_calculator'
+abstract: >-
+  Personality analysis and astrology tool implemented in
+  Python as the final project for Introduction to
+  Programming at Modesto Junior College. The program
+  determines various astrological signs and personality
+  information based on user input. Data persists in an
+  sqlite3 database.
+license: MIT
