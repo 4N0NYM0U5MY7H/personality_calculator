@@ -14,7 +14,7 @@ authors:
     orcid: 'https://orcid.org/0009-0007-9200-8438'
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.11155601
+    value: 10.5281/zenodo.11155600
 repository-code: 'https://github.com/4N0NYM0U5MY7H/personality_calculator'
 abstract: >-
   Personality analysis and astrology tool implemented in
@@ -24,5 +24,5 @@ abstract: >-
   information based on user input. Data persists in an
   sqlite3 database.
 license: MIT
-version: 1.0.0
+version: 1.0.1
 date-released: '2017-12-04'

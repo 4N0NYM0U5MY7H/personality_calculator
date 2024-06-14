@@ -13,7 +13,7 @@
 # Final Project: personality_calculator
 [![GitHub Discussions](https://img.shields.io/badge/Learn_More-informational?logo=github&style=for-the-badge)](https://github.com/4N0NYM0U5MY7H/personality_calculator/discussions/2)
 [![Maintainability](https://api.codeclimate.com/v1/badges/983d856ebcfda6c354d2/maintainability)](https://codeclimate.com/github/4N0NYM0U5MY7H/personality_calculator/maintainability)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11155601.svg)](https://doi.org/10.5281/zenodo.11155601)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11155600.svg)](https://doi.org/10.5281/zenodo.11155600)
 
 A simple GUI application that calculates a user's Enneagram, zodiac signs, and bio-rhythm.
 > **WARNING:** this repository is archived and is no longer maintained.
@@ -44,3 +44,6 @@ python __main__.py
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+The MJC swish logo is a trademark of Modesto Junior College and subject to copyright laws ([more info here](https://mjc.edu/general/publicinfo/logos.php)).
